@@ -308,7 +308,7 @@ class DisplayResults extends Component {
     }
   }
 
-render() {
+  render() {
     return (
       <div className="display-results">
         <div className="results-extra">

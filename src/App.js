@@ -298,14 +298,16 @@ class App extends Component {
                 results={this.state.results}
                 originalResults={this.state.results}
               ></DisplayResults>
-            ):(<p>No results. Try one of the requests above.</p>)}
+            ) : (
+              <p>No results. Try one of the requests above.</p>
+            )}
           </div>
           <footer>
             <hr></hr>
             <p>
               <i className="fab fa-github"></i> GitHub:{' '}
-              <a href="https://github.com/ari-abr/api-data-to-table-converter-app">
-                https://github.com/ari-abr/api-data-to-table-converter-app
+              <a href="https://github.com/ari-abr/astro-api-app1">
+                https://github.com/ari-abr/astro-api-app1
               </a>
             </p>
             <p>
