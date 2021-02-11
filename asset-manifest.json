@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/astro-api-app1/static/css/main.6ae0207b.chunk.css",
+    "main.js": "/astro-api-app1/static/js/main.8ab3bffa.chunk.js",
+    "main.js.map": "/astro-api-app1/static/js/main.8ab3bffa.chunk.js.map",
+    "runtime-main.js": "/astro-api-app1/static/js/runtime-main.1750acfe.js",
+    "runtime-main.js.map": "/astro-api-app1/static/js/runtime-main.1750acfe.js.map",
+    "static/js/2.e84e721f.chunk.js": "/astro-api-app1/static/js/2.e84e721f.chunk.js",
+    "static/js/2.e84e721f.chunk.js.map": "/astro-api-app1/static/js/2.e84e721f.chunk.js.map",
+    "static/js/3.8d5b69ae.chunk.js": "/astro-api-app1/static/js/3.8d5b69ae.chunk.js",
+    "static/js/3.8d5b69ae.chunk.js.map": "/astro-api-app1/static/js/3.8d5b69ae.chunk.js.map",
+    "index.html": "/astro-api-app1/index.html",
+    "static/css/main.6ae0207b.chunk.css.map": "/astro-api-app1/static/css/main.6ae0207b.chunk.css.map",
+    "static/js/2.e84e721f.chunk.js.LICENSE.txt": "/astro-api-app1/static/js/2.e84e721f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1750acfe.js",
+    "static/js/2.e84e721f.chunk.js",
+    "static/css/main.6ae0207b.chunk.css",
+    "static/js/main.8ab3bffa.chunk.js"
+  ]
+}
